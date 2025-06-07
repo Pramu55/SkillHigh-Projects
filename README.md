@@ -134,7 +134,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## Author
 
 **Pramod S S**
-Email: [pramod@example.com](mailto:pramod@example.com) (replace with your actual email)
+
 LinkedIn: [linkedin.com/in/pramod](https://linkedin.com/in/pramod)
 GitHub: [github.com/Pramu55](https://github.com/Pramu55)
 
